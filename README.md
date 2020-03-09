@@ -5,7 +5,7 @@
 当前游戏列表
 
 阴阳猜数字 版本5.0 [下载](https://github.com/Lutio0215/yygqgames/raw/master/apps/guess%20number/%E9%98%B4%E9%98%B3%E7%8C%9C%E6%95%B0%E5%AD%975.0.exe)  
-更新日志：
+更新日志：  
 v1.0 能玩游戏啦 能阴阳怪气啦  
 v2.0 增加了当前范围，便于记忆  
 v3.0 增加了性感老八图标 更加阴阳怪气 感谢老邓提供图标素材！  
